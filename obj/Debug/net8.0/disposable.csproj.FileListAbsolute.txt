@@ -1,0 +1,14 @@
+C:\Users\janardhana.papolu\Desktop\disposable\bin\Debug\net8.0\disposable.exe
+C:\Users\janardhana.papolu\Desktop\disposable\bin\Debug\net8.0\disposable.deps.json
+C:\Users\janardhana.papolu\Desktop\disposable\bin\Debug\net8.0\disposable.runtimeconfig.json
+C:\Users\janardhana.papolu\Desktop\disposable\bin\Debug\net8.0\disposable.dll
+C:\Users\janardhana.papolu\Desktop\disposable\bin\Debug\net8.0\disposable.pdb
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.AssemblyInfoInputs.cache
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.AssemblyInfo.cs
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.csproj.CoreCompileInputs.cache
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.dll
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\refint\disposable.dll
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.pdb
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\disposable.genruntimeconfig.cache
+C:\Users\janardhana.papolu\Desktop\disposable\obj\Debug\net8.0\ref\disposable.dll
